@@ -80,11 +80,7 @@ Prediction:
 4) Prediction - Based on the cluster number, the respective model is loaded and is used to predict the data for that cluster.
 5) Once the prediction is made for all the clusters, the predictions along with the Wafer names are saved in a CSV file at a given location and the location is returned to the client.
  
-Deployment:
-
-We will be deploying the model to the Pivotal Cloud Foundry platform. 
-This is a workflow diagram for the prediction of using the trained model.                  
-                                                      
+Folder Structure:                                                         
 
 Now let’s see the Wafer fault Detection project folder structure.
 requirements.txt file consists of all the packages that you need to deploy the app in the cloud.
