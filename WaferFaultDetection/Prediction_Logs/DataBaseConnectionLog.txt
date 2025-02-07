@@ -1,8 +1,0 @@
-2021-04-17/18:34:55		Opened Prediction database successfully
-2021-04-17/18:36:29		Closed Prediction database successfully
-2021-04-17/18:36:30		Opened Prediction database successfully
-2021-04-17/18:38:57		Opened Prediction database successfully
-2021-04-17/19:02:56		Opened Prediction database successfully
-2021-04-17/19:04:50		Closed Prediction database successfully
-2021-04-17/19:04:50		Opened Prediction database successfully
-2021-04-17/19:07:31		Opened Prediction database successfully
