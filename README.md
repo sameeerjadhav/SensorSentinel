@@ -1,6 +1,6 @@
 # Sensor-Sentinel: Quality Assurance Redefined by AI
 
-<p align="center"> <img src="WaferFaultDetection_new/templates/SensorSentinel (1).png" alt="Safe Roads" width="300" height="300"> </p>
+<p align="center"> <img src="WaferFaultDetection/templates/SensorSentinel (1).png" alt="Safe Roads" width="300" height="300"> </p>
 
 It is a multimodel end to end project. In this project entire pipeline is built for the pre-processing of the files. Everything from start to end have been kept automated.
 
